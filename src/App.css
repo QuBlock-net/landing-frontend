@@ -23,7 +23,6 @@ img {
 
 @media all and (max-width: 960px) {
     img {
-        height: 100%;
         max-width: 100%;
     }
     .banner {
